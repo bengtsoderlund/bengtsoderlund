@@ -18,9 +18,9 @@ Over the past two years I’ve built a portfolio of Python, SQL, and R projects 
 
 &nbsp; End-to-end machine learning pipeline for predicting late shipments using public retailer order data.  
 
-&nbsp; Tools: Python, scikit-learn, FastAPI, Docker, AWS (ECS, ECR, S3, IAM, CloudWatch), MLflow, Prefect, CI/CD (GitHub Actions).  
+&nbsp; \*Tools:\* Python, scikit-learn, FastAPI, Docker, AWS (ECS, ECR, S3, IAM, CloudWatch), MLflow, Prefect, CI/CD (GitHub Actions)  
 
-&nbsp; Metrics: 92.1% accuracy and 97.3% recall across two optimized Random Forest models.
+&nbsp; \*Metrics:\* 92.1% accuracy and 97.3% recall across two optimized Random Forest models
 
 
 
@@ -28,7 +28,7 @@ Over the past two years I’ve built a portfolio of Python, SQL, and R projects 
 
 &nbsp; Automated ingestion and storage of company financials from Alpha Vantage API, with SQL-based querying and Python visualization.  
 
-&nbsp; Tools: Python, SQL (SQLite), requests, pandas, matplotlib, Seaborn.
+&nbsp; \*Tools:\* Python, SQL (SQLite), requests, pandas, matplotlib, Seaborn
 
 
 
@@ -36,7 +36,7 @@ Over the past two years I’ve built a portfolio of Python, SQL, and R projects 
 
 &nbsp; Empirical evaluation of trade agreement effects using a dynamic gravity model.  
 
-&nbsp; Tools: R (tidyverse, ggplot2), econometric modeling, causal inference.
+&nbsp; \*Tools:\* R (tidyverse, ggplot2), econometric modeling, causal inference
 
 
 
